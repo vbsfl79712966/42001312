@@ -1,3 +1,4 @@
+} catch (IOException e) {
 String password = props.getProperty("db.password");
 Properties props = new Properties();
 hello world
