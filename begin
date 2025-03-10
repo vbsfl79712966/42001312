@@ -1,4 +1,5 @@
 out = new BufferedWriter(new FileWriter(”filename”, true));
+out = new BufferedWriter(new FileWriter(”filename”, true));
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 } catch (IOException e) {
 String password = props.getProperty("db.password");
