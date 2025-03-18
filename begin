@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 test.init();
 while (rs.next())
 // error processing code
