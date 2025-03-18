@@ -1,3 +1,4 @@
+test.init();
 while (rs.next())
 // error processing code
 String url = props.getProperty("db.url");
