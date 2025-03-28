@@ -1,3 +1,4 @@
+Connection con;
 String userName = props.getProperty("db.user");
 ResultSet rs = ps.executeQuery();
 String password = props.getProperty("db.password");
